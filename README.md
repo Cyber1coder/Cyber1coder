@@ -4,7 +4,10 @@
 
 💻 Frontend Developer | UI/UX Enthusiast  
 🎨 Interested in Design + Development  
-⚡ Building projects using React, Node & Supabase  
+⚡ Building projects using React, Node & Supabase  <p>
+  <img src="https://i.pinimg.com/originals/75/8f/1c/758f1cd8cede9c3e4711306fc030f4ce.gif" width="300">
+</p>
+
 
 ---
 
@@ -25,9 +28,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/75/8f/1c/758f1cd8cede9c3e4711306fc030f4ce.gif" width="300">
-</p>
 
 
 
