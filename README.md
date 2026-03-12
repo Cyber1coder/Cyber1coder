@@ -22,8 +22,9 @@
 ---
 
 ## 📌 Featured Projects
+- 🔹 Skill-swap full Stack app
+- 🔹 the cozy way - crochet learning platform
 - 🔹 Portfolio Website
-- 🔹 Tech Interview Prep Bot (Coming Soon)
 - 🔹 Hospital Website
 
 ---
